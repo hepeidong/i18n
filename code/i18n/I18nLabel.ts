@@ -23,7 +23,8 @@ const { ccclass, property, requireComponent, disallowMultiple, menu } = _decorat
 @menu('i18n/I18nLabel')
 export class I18nLabel extends Component implements II18nComponent {
     @property({
-        tooltip: '是否是动态文本'
+        tooltip: '是否是动态文本',
+        displayName: '动态文本'
     })
     DTEXT: boolean = false;
 
