@@ -9,11 +9,10 @@ const { ccclass, property, executeInEditMode, requireComponent, disallowMultiple
  * Predefined variables
  * Name = I18nSprite
  * DateTime = Thu Apr 14 2022 11:25:34 GMT+0800 (中国标准时间)
- * Author = taotao2017
+ * Author = 何沛东
  * FileBasename = I18nSprite.ts
  * FileBasenameNoExtension = I18nSprite
  * URL = db://assets/scripts/i18n/I18nSprite.ts
- * ManualUrl = https://docs.cocos.com/creator/3.4/manual/zh/
  *
  */
  

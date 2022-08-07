@@ -9,11 +9,10 @@ const { ccclass, property, requireComponent, disallowMultiple, menu } = _decorat
  * Predefined variables
  * Name = I18nLabel
  * DateTime = Wed Apr 13 2022 14:49:14 GMT+0800 (中国标准时间)
- * Author = taotao2017
+ * Author = 何沛东
  * FileBasename = I18nLabel.ts
  * FileBasenameNoExtension = I18nLabel
  * URL = db://assets/scripts/i18n/I18nLabel.ts
- * ManualUrl = https://docs.cocos.com/creator/3.4/manual/zh/
  *
  */
  

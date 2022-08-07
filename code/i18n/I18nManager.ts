@@ -8,6 +8,11 @@ import { Language } from "./LanguageEnum";
 const I18N_TEXT_URL = 'i18n/text/';
 const I18N_SPRITE_URL = 'i18n/sprite/json/';
 
+
+/**
+ * Author = 何沛东
+ * Description = i18n多语言管理类
+ */
 export class I18nManager {
     private static _ins: I18nManager = null;
 

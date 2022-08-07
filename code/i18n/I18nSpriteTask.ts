@@ -1,6 +1,10 @@
 import { Asset, assetManager, JsonAsset, resources, Sprite, SpriteFrame } from "cc";
 import { I18nTask } from "./I18nTask";
 
+/**
+ * Author = 何沛东
+ * Description = 精灵纹理多语言适配执行任务
+ */
 export class I18nSpriteTask extends I18nTask {
 
     public load(): Promise<boolean> {
